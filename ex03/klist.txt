@@ -1,0 +1,8 @@
+Credentials cache: API:794E1A35-3DA6-48D2-AF56-C894ACCF70E4
+        Principal: cperrard@42.FR
+
+  Issued                Expires               Principal
+Jul  5 10:30:23 2017  Jul 12 10:30:23 2017  krbtgt/42.FR@42.FR
+Jul  5 10:30:24 2017  Jul 12 10:30:23 2017  ldap/ldap-proxy.42.fr@42.FR
+Jul  5 10:30:25 2017  Jul 12 10:30:23 2017  HTTP/student-storage-1.42.fr@42.FR
+Jul  5 10:52:22 2017  Jul 12 10:30:23 2017  host/vgs-fn1.42.fr@42.FR
